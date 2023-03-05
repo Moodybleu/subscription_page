@@ -4,7 +4,7 @@ import './App.css';
 const ProductDisplay = () => (
   <section>
     <div className="product">
-      <Logo />
+      {/* <Logo /> */}
       <div className="description">
         <h3>Starter plan</h3>
         <h5>$20.00 / month</h5>
